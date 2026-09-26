@@ -1,0 +1,14 @@
+# Dados brutos mantidos no Drive
+dados_brutos/
+Matriculados/
+Rendimento/
+microdados_ed_basica_*
+Tabela_Matricula_2025_V2.csv
+
+# Arquivos temporários
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
