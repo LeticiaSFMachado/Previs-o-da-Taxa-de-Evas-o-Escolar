@@ -8,7 +8,7 @@ Material de trabalho da disciplina de Tópicos de Big Data, com notebooks de pre
 Projeto-Evasao-Escolar/
 ├── README.md
 ├── .gitignore
-├── Notebooks do Colab/                 # 5 notebooks Python (.ipynb)
+├── Notebooks do Colab/                 # 6 notebooks Python (.ipynb)
 └── Arquivos criados no Colab/     # 27 CSVs processados
 ```
 
